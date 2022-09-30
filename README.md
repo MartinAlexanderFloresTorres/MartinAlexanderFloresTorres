@@ -8,11 +8,11 @@
 
 ```javascript
 const Martin_Flores = {
-    Idiomas: "Español" | "Ingles",
+    idiomas: "español" | "ingles",
     tecnologias: {
         frontEnd: {
             js: ["React", "Next.js", "Remix"],
-            css: ["CSS Nativo", "Bootstrap", "Tailwindcss"]
+            css: ["Css nativo", "Bootstrap", "Tailwindcss"]
         },
         backEnd: ["Node.js", "Python", "Java"],
         databases: ["MySql", "MongoDB"],
