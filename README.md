@@ -4,14 +4,11 @@
 </p>
 
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con mas de 1 año de experiencia.<br />¡Sigueme en mis redes sociales 👇!</p>
-<p align="center">
-  <a href="https://instagram.com/martin_flores_28" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="martin_flores_28" height="28px" width="28px" />
-  </a>
-  <a href="https://twitter.com/Martinflores_21" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Martinflores_21" height="28px" width="28px" />
-  </a>
-</p> 
+
+  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MartinAlexanderFloresTorres)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-alexander-flores-torres)
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martinflorestorres21@gmail.com)
+
 
 <!--
 **MartinAlexanderFloresTorres/MartinAlexanderFloresTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
