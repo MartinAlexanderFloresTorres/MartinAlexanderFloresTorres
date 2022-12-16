@@ -8,14 +8,13 @@
 
 ```javascript
 const Martin_Flores = {
-    idiomas: "español" | "ingles",
     tecnologias: {
-        frontEnd: {
-            js: ["React", "Next.js", "Remix"],
+        FrontEnd: {
+            js: ["React", "Next.js", "Remix", "React Native"],
             css: ["Css nativo", "Bootstrap", "Tailwindcss"]
         },
         backEnd: ["Node.js", "Python", "Java"],
-        databases: ["MySql", "MongoDB"],
+        databases: ["MYSQL", "MongoDB"],
     }
 };
 ```
