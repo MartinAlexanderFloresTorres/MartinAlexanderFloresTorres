@@ -4,6 +4,9 @@
 </p>
 
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con mas de 1 año de experiencia.</p>
+<p align="center">👨‍🎓 Portafolio
+   <a href="https://whitecode.online/" target="_blank">https://whitecode.online/</a>
+ </p>
 <br />
 
 ```javascript
@@ -19,10 +22,6 @@ const Martin_Flores = {
 };
 
 ```
-
-### 👨‍🎓 Portafolio
-https://whitecode.online/
-
 
 ### 🔔 Mis Redes Sociales:
 
