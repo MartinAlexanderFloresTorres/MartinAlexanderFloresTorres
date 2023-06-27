@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy Martin Flores 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con mas de 1 año de experiencia.</p>
+<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con mas de 2 años de experiencia.</p>
 <p align="center">👨‍🎓 Portafolio
    <a href="https://whitecode.online/" target="_blank">https://whitecode.online/</a>
  </p>
@@ -13,8 +13,8 @@
 const Martin_Flores = {
     tecnologias: {
         FrontEnd: {
-            js: ["React", "Next.js", "Remix", "React Native"],
-            css: ["Css nativo", "Bootstrap", "Tailwindcss"]
+            js: ["React", "Next.js", "Vue", "React Native"],
+            css: ["CSS", "Bootstrap", "Tailwindcss"]
         },
         backEnd: ["Node.js", "Python", "Java"],
         databases: ["MYSQL", "MongoDB"],
