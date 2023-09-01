@@ -13,7 +13,7 @@
 const Martin_Flores = {
     tecnologias: {
         FrontEnd: {
-            js: ["React", "Next.js", "Vue", "React Native"],
+            js: ["React", "Angular", "Next.js", "Vue", "React Native"],
             css: ["CSS", "Bootstrap", "Tailwindcss"]
         },
         backEnd: ["Node.js", "Python", "Java"],
