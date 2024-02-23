@@ -5,7 +5,7 @@
 
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con mas de 2 años de experiencia.</p>
 <p align="center">👨‍🎓 Portafolio
-   <a href="https://martin-dev.netlify.app" target="_blank">https://martin-dev.netlify.app//</a>
+   <a href="https://martin-dev.netlify.app" target="_blank">https://martin-dev.netlify.app</a>
  </p>
 <br />
 
