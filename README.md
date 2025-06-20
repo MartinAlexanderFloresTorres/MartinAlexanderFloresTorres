@@ -3,16 +3,16 @@
    <h3 align="center">¡Hola 👋! Soy Martin Flores 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con mas de 2 años de experiencia.</p>
+<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con mas de 3 años de experiencia.</p>
 <p align="center">👨‍🎓 Portafolio
    <a href="https://martin-dev.netlify.app" target="_blank">https://martin-dev.netlify.app</a>
  </p>
 <br />
 
 ```javascript
-const Martin_Flores = {
+const MartinFlores = {
     tecnologias: {
-        FrontEnd: {
+        frontEnd: {
             js: ["React", "Angular", "Next.js", "Vue", "React Native"],
             css: ["CSS", "Bootstrap", "Tailwindcss"]
         },
